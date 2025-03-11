@@ -10,7 +10,7 @@ categories: jekyll update
 =======
 ## Monday
 
-
+we got introduced to the staff and got our laptops
 ---
 
 
