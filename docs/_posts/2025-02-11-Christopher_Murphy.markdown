@@ -49,9 +49,9 @@ we did a "team building exersise" where we had to build a roller coster out of s
 
 ![Terminal](https://media0.giphy.com/media/yrmb9TgQlb18k/giphy.gif?cid=6c09b952yzqugubwet29vmayzw8vg8bb52d1z0qzojx1cgxs&ep=v1_gifs_search&rid=giphy.gif&ct=g "Terminal")
 
-Today we coded bbc micro cars and raced them along the tabels
----
 
+---
+Today we coded bbc micro cars and raced them along the tabels
 
 ## Friday
 
